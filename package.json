@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jersoalana.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerrithottathil/jerrysoalaana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerrithottathil/jerrysoalaana/issues"
+  },
+  "homepage": "https://github.com/jerrithottathil/jerrysoalaana#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.70.1"
+  }
+}
